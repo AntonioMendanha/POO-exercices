@@ -9,8 +9,9 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-
+        //Starting program
         Printer.startCalculatorPrint();
+
         int firstNumber = NumberScanner.numberScan();
         int secondNumber = NumberScanner.numberScan();
         int operation = NumberScanner.calcType();
@@ -20,5 +21,7 @@ public class Main {
         System.out.printf("%d",
                 Operations.results(operation, firstNumber, secondNumber)
         );
+        //Closing program
+        Printer.endCalculatorProgram();
     }
 }
