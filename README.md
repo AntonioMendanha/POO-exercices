@@ -15,15 +15,15 @@
 <h1>Exercises Repository</h1>
 <h3>Second List of exercises</h3>
 
-> 1 - (Calculadora) Calculator ``source`` -> com.secondList.calculator
+> 1 - (Calculadora) Calculator -> ``source`` [com.secondList.calculator](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/secondList/calculator)
 
-> 2 - (Tabuada) Times Table ``source`` -> com.secondList.timesTable
+> 2 - (Tabuada) Times Table -> ``source`` [com.secondList.timesTable](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/secondList/timesTable)
  
-> 3 - (Conversor Celsius) Celsius to Farenheit ``source`` -> com.secondList.celsiusToFarenheit 
+> 3 - (Conversor Celsius) Celsius to Farenheit -> ``source`` [com.secondList.celsiusToFarenheit](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/secondList/celsiusToFarenheit) 
  
-> 4 - (Conversor de moedas) Money converter ``source`` -> com.secondList.moneyConverter
+> 4 - (Conversor de moedas) Money converter -> ``source`` [com.secondList.moneyConverter](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/secondList/moneyConverter)
 
-> 5 - (Conversor de medidas) Distance converter ``source`` -> com.secondList.distanceConverter 
+> 5 - (Conversor de medidas) Distance converter -> ``source`` [com.secondList.distanceConverter](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/secondList/distanceConverter) 
 </div>
 
 ## **In progress**
