@@ -13,6 +13,7 @@
 </div>
 <div>
 <h1>Exercises Repository</h1>
+<div>
 <h3>Second List of exercises</h3>
 
 > 1 - (Calculadora) Calculator -> ``source`` [com.secondList.calculator](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/secondList/calculator)
@@ -25,8 +26,31 @@
 
 > 5 - (Conversor de medidas) Distance converter -> ``source`` [com.secondList.distanceConverter](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/secondList/distanceConverter) 
 </div>
+<div>
+<h3>Third List of exercises</h3>
 
-## **In progress**
+#### **In progress**
+
+> 1 - (Lista de Compra de frutas) Fruits List -> ``source`` [com.thirdList.fruitsList](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/thirdList/fruitsList)
+
+> 2 - (De tras para frente) Backwords -> ``source`` [com.thirdList.backwords](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/thirdList/backwords)
+
+> 3 - (Par ou impar) Odd or even -> ``source`` [com.thirdList.oddOrEven](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/thirdList/oddOrEven)
+
+> 4 - (Maior, menor e media) Higher, lower and average -> ``source`` [com.thirdList.higherLowerAverage](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/thirdList/higherLowerAverage)
+
+> 5 - (Maior nome) Bigger name -> ``source`` [com.thirdList.biggerName](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/thirdList/biggerName)
+
+> 6 - (PaLaVrA FoRmAtAdA ) FoRmAtEd wOrD -> ``source`` [com.thirdList.formatedWord](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/thirdList/formatedWord)
+
+> 7 - (Analisando Pessoas) Analyzing People -> ``source`` [com.thirdList.analyzingPeople](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/thirdList/analyzingPeople)
+
+> 8 - (Calculo IMC) Body Mass Index -> ``source`` [com.thirdList.bodyMassIndex](https://github.com/AntonioMendanha/POO-exercices/tree/master/src/com/thirdList/bodyMassIndex)
+
+</div>
+</div>
+
+
 
 <div>
   <h3> How to reach me </h3>
